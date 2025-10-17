@@ -20,8 +20,12 @@
       "domain": "curso-ingles.com",
       "horarios": [
         {
-          "horaFin": "01:41",
-          "horaInicio": "01:38"
+          "horaFin": "01:45",
+          "horaInicio": "01:36"
+        },
+        {
+          "horaFin": "01:53",
+          "horaInicio": "01:50"
         }
       ],
       "urls": [
