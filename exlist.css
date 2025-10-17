@@ -1,0 +1,69 @@
+body {
+  font-family: "Comic Sans MS", "Segoe UI", sans-serif;
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+  margin: 20px;
+  padding: 0;
+  color: #333;
+  font-size: 18px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 32px;
+  color: #2b7a78;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px 2px #fff;
+}
+
+.domain-block {
+  background: #ffffffdd;
+  border-radius: 16px;
+  padding: 15px 20px;
+  margin: 15px auto;
+  max-width: 600px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  transition: transform 0.2s ease-in-out;
+}
+
+.domain-block:hover {
+  transform: scale(1.02);
+}
+
+h2 {
+  font-size: 22px;
+  color: #ff6f61;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #ff6f61;
+  padding-bottom: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin: 10px 0;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+}
+
+ul li::before {
+  content: "⭐";
+  margin-right: 10px;
+  font-size: 18px;
+  color: #f4c542;
+}
+
+a {
+  text-decoration: none;
+  color: #0077b6;
+  font-weight: bold;
+  transition: color 0.2s ease-in-out;
+}
+
+a:hover {
+  color: #ff5722;
+  text-decoration: underline;
+}
