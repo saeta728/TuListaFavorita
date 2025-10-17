@@ -1,0 +1,35 @@
+{
+  "excepciones": [
+    {
+      "domain": "youtube.com",
+      "urls": [
+        {
+          "title": "hillsop",
+          "url": "https://www.youtube.com/watch?v=ZshhVhBv4ps&list=RDZshhVhBv4ps&start_radio=1&pp=oAcB"
+        },
+        {
+          "title": "chino",
+          "url": "https://www.youtube.com/watch?v=L7XlTNThPZc"
+        }
+      ]
+    }
+  ],
+  "excepcionesHorario": [
+    {
+      "dias": [],
+      "domain": "curso-ingles.com",
+      "horarios": [
+        {
+          "horaFin": "23:22",
+          "horaInicio": "23:20"
+        }
+      ],
+      "urls": [
+        {
+          "title": "ejercicios",
+          "url": "https://curso-ingles.com/practicar/ejercicios"
+        }
+      ]
+    }
+  ]
+}
