@@ -5,10 +5,6 @@
       "urls": [
         {
           "title": "chino",
-          "url": "https://www.youtube.com/watch?v=ZshhVhBv4ps&list=RDZshhVhBv4ps"
-        },
-        {
-          "title": "hillsong",
           "url": "https://www.youtube.com/watch?v=L7XlTNThPZc"
         }
       ]
@@ -20,17 +16,13 @@
       "domain": "curso-ingles.com",
       "horarios": [
         {
-          "horaFin": "01:45",
-          "horaInicio": "01:36"
-        },
-        {
-          "horaFin": "01:53",
-          "horaInicio": "01:50"
+          "horaFin": "22:39",
+          "horaInicio": "22:37"
         }
       ],
       "urls": [
         {
-          "title": "ejercicios",
+          "title": "ejercicios ingles",
           "url": "https://curso-ingles.com/practicar/ejercicios"
         }
       ]
