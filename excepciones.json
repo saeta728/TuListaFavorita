@@ -1,31 +1,4 @@
 {
-  "excepciones": [
-    {
-      "domain": "youtube.com",
-      "urls": [
-        {
-          "title": "chino",
-          "url": "https://www.youtube.com/watch?v=L7XlTNThPZc"
-        }
-      ]
-    }
-  ],
-  "excepcionesHorario": [
-    {
-      "dias": [],
-      "domain": "curso-ingles.com",
-      "horarios": [
-        {
-          "horaFin": "22:39",
-          "horaInicio": "22:37"
-        }
-      ],
-      "urls": [
-        {
-          "title": "ejercicios ingles",
-          "url": "https://curso-ingles.com/practicar/ejercicios"
-        }
-      ]
-    }
-  ]
+  "excepciones": [],
+  "excepcionesHorario": []
 }
