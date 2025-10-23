@@ -1,4 +1,14 @@
 {
-  "excepciones": [],
+  "excepciones": [
+    {
+      "domain": "youtube.com",
+      "urls": [
+        {
+          "title": "hill",
+          "url": "https://www.youtube.com/watch?v=L7XlTNThPZc"
+        }
+      ]
+    }
+  ],
   "excepcionesHorario": []
 }
